@@ -1,0 +1,125 @@
+/*    estilos del calendario */
+.sigefor_cal_icono{
+	font-weight: bold; font-size: 0px; 
+	_background-image: url(../imagenes/); 
+	width: 28px; 
+	cursor: pointer; 
+	border-top-style: none; 
+	border-right-style: none; 
+	border-left-style: none; 
+	height: 20px; 
+	background-color:transparent;
+	
+	border-bottom-style: none;
+	vertical-align:super;
+}
+th.sigefor_cal_dia, th.sigefor_cal_semana{
+	text-align:center;
+	font-family:tahoma,arial;
+	color: #FF6600;
+	font-size:9pt;
+	text-transform:capitalize;
+	padding-left: 4px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: White;
+	background: #006400 url(../imagenes/efecto_10.png);
+}
+.sigefor_cal_mes_ant,.sigefor_cal_mes_sig,.sigefor_cal_mes,.sigefor_cal_ano{
+	padding-left: 2px;
+	border-color: #dbffee;
+	border-width: 1px;
+	color: red;
+	text-align:left;
+	font-size:8pt;
+	font-family:tahoma,arial;
+	font-weight: bold;
+	cursor:pointer;
+	vertical-align: top;
+	background: teal url(../imagenes/fondo_001.png);
+}
+table.sigefor_cal{
+	background: white;
+}
+caption.sigefor_cal_caption{
+	background-color: fuchsia;
+	color: aqua;
+}
+td.sigefor_cal_dia{
+	padding-left: 2px;
+	border-color: #ee82ee;
+	border-width: 1px;
+	background: #FFFFCC;
+	color: #333333;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+}
+td.sigefor_cal_sel{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: url(../imagenes/fondo_n01.png);
+	color: White;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+}
+td.sigefor_cal_dia_over{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	color: white;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	cursor:pointer;
+	background: url(../imagenes/fondo_xverde1.png);
+}
+th.sigefor_cal_hoy_over{
+	text-align:center;
+	font-family:tahoma,arial;
+	color: red;
+	font-size:9pt;
+	padding-left: 0px;
+	border-color: #DAA520;
+	border-width: 1px;
+	background: #2f4f4f;
+	cursor:pointer;
+	background: #006400 url(../imagenes/fondo_xrojo3.png);
+}
+th.sigefor_cal_hoy{
+	padding-left: 0px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #006400 url(../imagenes/fondo_n02.png);
+	color: white;
+	text-align:center;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	cursor:pointer;
+}
+td.sigefor_cal_semana{
+	text-align:right;
+	font-family:tahoma,arial;
+	color: white;
+	font-size:9pt;
+	padding-right: 6px;
+	border-color: #DAA520;
+	border-width: 1px;
+	background: #FF9933;
+	font-weight: bold;
+
+}
+td.sigefor_cal_semana_over{
+	text-align:right;
+	font-family:tahoma,arial;
+	color: #2e8b57;
+	font-size:9pt;
+	padding-right: 6px;
+	border-color: #DAA520;
+	border-width: 1px;
+	background: #afeeee;
+	font-weight: bold;
+	cursor:pointer;
+}

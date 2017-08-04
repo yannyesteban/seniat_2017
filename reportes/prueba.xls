@@ -1,0 +1,606 @@
+<html>
+<head>
+<title>Establecimientos</title>
+</head>
+<body><table border="0" cellspacing="0" cellpadding="0" width="700" style="">
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0"style="" >
+      <tr>
+        <td></td>
+      </tr>
+    </table>
+        <table width="100%" id="cuerpo_informe" border="0">
+<tr id="enc_pag">
+            
+	<th id="cel_enc_pag" >Código</th>
+	<th id="cel_enc_pag" >Parroquia</th>
+	<th id="cel_enc_pag" >Centro</th>
+	<th id="cel_enc_pag" >Ente Constructor</th>
+	<th id="cel_enc_pag" >Nombre</th>
+	<th id="cel_enc_pag" >Teléfono</th>
+	<th id="cel_enc_pag" >Piso</th>
+	<th id="cel_enc_pag" >Techo</th>
+	<th id="cel_enc_pag" >Paredes</th>
+	<th id="cel_enc_pag" >Agua Potable</th>
+	<th id="cel_enc_pag" >Aguas Servidas</th>
+	<th id="cel_enc_pag" >Electricidad</th>
+	<th id="cel_enc_pag" >Observación de las Condiciones</th>
+	<th id="cel_enc_pag" >Observaciones Generales</th>
+	<th id="cel_enc_pag" >estado</th>
+	<th id="cel_enc_pag" >municipio</th>
+          </tr>
+<tr id="detalle">
+            
+	<td id="cel_detalle" >CP010104001054</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >LA TOMA</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >MILAGROS HERNANDEZ</td>
+	<td id="cel_detalle" >04141956654</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GOTERAS EN LA RESIDENCIA,DAÑOS GENERALES EN LOS BAÑOS, MALA CONEXION EN LOS FREGADEROS, FALTA BARNIZAR ESTRUCTURA, FALTA LAMINAS EN TECHO RASO, ENCHUFES E INTERRUPTORES DAÑADOS, ILUMINACION EN ENFERMERIA DEFICIENTE, PUERTA PPAL DAÑADA, BOMBA DE AGUA CON DIFICULTADES AL ENCENDER, CERRADURAS EN GENERAL DAÑADAS, AMBOS TENSIOMETROS EN MAL ESTADO, EL MEDICO TIENE DENGUE Y ESTA DE REPOSO, POR LO TANTO LAS CONSULTAS ESTAN SUSPENDIDAS</td>
+	<td id="cel_detalle" >Distrito Capital</td>
+	<td id="cel_detalle" >Libertador</td>
+          </tr>
+<tr id="detalle">
+            
+	<td id="cel_detalle" >CP010111001001</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >EL AVILA</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >ZORAIDA MACIAS</td>
+	<td id="cel_detalle" >04129943057</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >BARNIZAR ESTRUCTURA, DAÑOS GENERALES EN TODOS LOS BAÑOS, PUERTA PRINCIPAL FORZADA,FLOTANTE DEL TANQUE DE AGUA EN MAL ESTADO,ALUMBRADO EXTERIOR DEFICIENTE, FREGADEROS CON DAÑOS GENERALES, PUERTA DE BAÑOS DESPLEGABLES DAÑADAS, DAÑADOS LOS SIGUIENTES EQUIPOS: TENSIOMETRO DE PEDESTAL, INFANTOMETRO ORL </td>
+	<td id="cel_detalle" >Distrito Capital</td>
+	<td id="cel_detalle" >Libertador</td>
+          </tr>
+<tr id="detalle">
+            
+	<td id="cel_detalle" >CP010111001002</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >EL CARDON</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >JUANA DE LINARES</td>
+	<td id="cel_detalle" >04167249221</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >FILTRACION EN PAREDES, FALTA BARNIZ EN LA ESTRUCTURA, CERRADURA DE LA PUERTA PPAL DAÑADA, ILUMINACION INTERNA Y EXTERNA EN MAL ESTADO, FREGADERO DE ENFERMERIA DAÑADO, ORL DAÑADO, FALTAN 2 VENTILADORES, DAÑADO TENSIOMETRO DE PEDESTAL, Y PORTATIL FALTA, JUEGOS DE CIRUGIA MENOR OXIDADOS, </td>
+	<td id="cel_detalle" >Distrito Capital</td>
+	<td id="cel_detalle" >Libertador</td>
+          </tr>
+<tr id="detalle">
+            
+	<td id="cel_detalle" >CP010111001003</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >TIERRA BLANCA</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >GLADYS PEREZ</td>
+	<td id="cel_detalle" >04162025185</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Sin Formalizar</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >TUBERIAS DE AGUAS SERVIDAS SIN PENDIENTE, FALTA BARNIZAR LA ESTRUCTURA, DAÑOS GENERALES EN TODOS LOS BAÑOS, FILTRACIONES EN LA ENFERMERIA ILUMINACION EN GENERAL DEFICIENTE, DAÑADOS TENSIOMETRO DE PEDESTAL, ORL Y ESTERILIZADOR ELECTRICO</td>
+	<td id="cel_detalle" >Distrito Capital</td>
+	<td id="cel_detalle" >Libertador</td>
+          </tr>
+<tr id="detalle">
+            
+	<td id="cel_detalle" >CP010111001004</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >LUISA CACERES DE ARISMENDI</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >HENRY FRIAS</td>
+	<td id="cel_detalle" >04129121181</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GOTERAS, RECTIFICAR PENDIENTE DE BAÑOS, CERRADURAS EXTERNAS DAÑADAS, TODOS LOS SIFONES Y CANILLAS DAÑADOS, TOMA CORRIENTES DAÑADOS, FALTA BARNIZAR ESTRUCTURA, DAÑADOS EL TENSIOMETRO DE PEDESTAL, INFANTOMETRO Y ESTETOSCOPIO CLASICO</td>
+	<td id="cel_detalle" >Distrito Capital</td>
+	<td id="cel_detalle" >Libertador</td>
+          </tr>
+<tr id="detalle">
+            
+	<td id="cel_detalle" >CP010111001005</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >SANTA ISABEL</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >MARYORI OVIEDO</td>
+	<td id="cel_detalle" >04127229962</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >daños en baños en general,VENTANAS NO ABREN, RECTIFICAR PENDIENTE DE DESAGUE, EQUIPOS DAÑADOS: TABURETE GIRATORIO, SILLA SECRETARIAL, DVD, BASE AEREA, ESTETOSCOPIO, </td>
+	<td id="cel_detalle" >Distrito Capital</td>
+	<td id="cel_detalle" >Libertador</td>
+          </tr>
+<tr id="detalle">
+            
+	<td id="cel_detalle" >CP010111001006</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >SAN RUPERTO</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >YENNY SANCHEZ</td>
+	<td id="cel_detalle" >04167154279</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >MEDICO ENFERMO DE DENGUE, GOTERAS Y FILTRACIONES, ILUMINACION INTERNA Y EXTERNA DEFICIENTE, FALTA EL TENSIOMETRO PORTATIL Y LOS EQUIPOS DE CIRUGIA MENOR, </td>
+	<td id="cel_detalle" >Distrito Capital</td>
+	<td id="cel_detalle" >Libertador</td>
+          </tr>
+<tr id="detalle">
+            
+	<td id="cel_detalle" >CP010111001007</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >ERNESTO GUEVARA</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >HIBES LEON</td>
+	<td id="cel_detalle" >04241255819</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Sin Formalizar</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GRAVES GOTERAS,EN LA ZONA HAY EPIDEMIA DE DENGUE, DAÑOS GENERALES EN LOS BAÑOS ILUMINACION INTERNA DEFICIENTE, TANQUE BOTA EL AGUA (FALTA VALVULA) PAREDES AGRIETADAS, CAMBIAR ENCHUFES FALTA BARNIZAR PAREDES, FALTAN TENSIOMETRO DE PEDESTAL Y PORTATIL Y EL ORL ESTA DAÑADO</td>
+	<td id="cel_detalle" >Distrito Capital</td>
+	<td id="cel_detalle" >Libertador</td>
+          </tr>
+<tr id="detalle">
+            
+	<td id="cel_detalle" >CP010111001008</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >ANTONIO JOSE DE SUCRE</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >MILENIS BRUZUAL</td>
+	<td id="cel_detalle" >04167108629</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Sin Formalizar</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GOTERAS EN LA RESIDENCIA, FILTRACION EN DONDE VA LA BOMBA DE AGUA, BARNIZAR ESTRUCTURA, BOMBA DE AGUA DAÑADA, ILUMINACION EXTERNA E INTERNA DEFICIENTE, TENSIOMETROS DE PEDESTAL Y PORTATIL FALTAN, NEVERA EJECUTIVA NO CUBRE NECESIDADES DEL MODULO, FALTA BASE AEREA, </td>
+	<td id="cel_detalle" >Distrito Capital</td>
+	<td id="cel_detalle" >Libertador</td>
+          </tr></table></td>
+  </tr>
+</table>
+</body>
+</html><html>
+<head>
+<title>Establecimientos</title>
+</head>
+<body><table border="0" cellspacing="0" cellpadding="0" width=700 style="">
+				<tr>
+				<td valign="top">
+				
+					<table width="100%" border="0" cellspacing="0" cellpadding="0"style="" >
+						  <tr>
+							<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td><span class="sin_borde"><img src="imagenes/logo_mpps.png" width="334" height="47" /></span></td>
+                                <td><div align="right"><img src="imagenes/logo_mpps3.png" width="75" height="48" /></div></td>
+                              </tr>
+                            </table></td>
+						  </tr>
+						</table>
+						<table width="100%" id="cuerpo_informe" border=0>
+<tr id="enc_pag">
+							
+	<th id="cel_enc_pag" >Código</th>
+	<th id="cel_enc_pag" >Parroquia</th>
+	<th id="cel_enc_pag" >Centro</th>
+	<th id="cel_enc_pag" >Ente Constructor</th>
+	<th id="cel_enc_pag" >Nombre</th>
+	<th id="cel_enc_pag" >Teléfono</th>
+	<th id="cel_enc_pag" >Piso</th>
+	<th id="cel_enc_pag" >Techo</th>
+	<th id="cel_enc_pag" >Paredes</th>
+	<th id="cel_enc_pag" >Agua Potable</th>
+	<th id="cel_enc_pag" >Aguas Servidas</th>
+	<th id="cel_enc_pag" >Electricidad</th>
+	<th id="cel_enc_pag" >Observación de las Condiciones</th>
+	<th id="cel_enc_pag" >Observaciones Generales</th>
+						  </tr>
+<tr id="enc_cte" >
+							<th  id="cel_enc_cte" colspan="16" >Estado: Distrito Capital</th>
+						  </tr>
+<tr id="enc_cte" >
+							<th  id="cel_enc_cte" colspan="16" >Municipio: Libertador</th>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010104001054</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >LA TOMA</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >MILAGROS HERNANDEZ</td>
+	<td id="cel_detalle" >04141956654</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GOTERAS EN LA RESIDENCIA,DAÑOS GENERALES EN LOS BAÑOS, MALA CONEXION EN LOS FREGADEROS, FALTA BARNIZAR ESTRUCTURA, FALTA LAMINAS EN TECHO RASO, ENCHUFES E INTERRUPTORES DAÑADOS, ILUMINACION EN ENFERMERIA DEFICIENTE, PUERTA PPAL DAÑADA, BOMBA DE AGUA CON DIFICULTADES AL ENCENDER, CERRADURAS EN GENERAL DAÑADAS, AMBOS TENSIOMETROS EN MAL ESTADO, EL MEDICO TIENE DENGUE Y ESTA DE REPOSO, POR LO TANTO LAS CONSULTAS ESTAN SUSPENDIDAS</td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001001</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >EL AVILA</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >ZORAIDA MACIAS</td>
+	<td id="cel_detalle" >04129943057</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >BARNIZAR ESTRUCTURA, DAÑOS GENERALES EN TODOS LOS BAÑOS, PUERTA PRINCIPAL FORZADA,FLOTANTE DEL TANQUE DE AGUA EN MAL ESTADO,ALUMBRADO EXTERIOR DEFICIENTE, FREGADEROS CON DAÑOS GENERALES, PUERTA DE BAÑOS DESPLEGABLES DAÑADAS, DAÑADOS LOS SIGUIENTES EQUIPOS: TENSIOMETRO DE PEDESTAL, INFANTOMETRO ORL </td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001002</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >EL CARDON</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >JUANA DE LINARES</td>
+	<td id="cel_detalle" >04167249221</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >FILTRACION EN PAREDES, FALTA BARNIZ EN LA ESTRUCTURA, CERRADURA DE LA PUERTA PPAL DAÑADA, ILUMINACION INTERNA Y EXTERNA EN MAL ESTADO, FREGADERO DE ENFERMERIA DAÑADO, ORL DAÑADO, FALTAN 2 VENTILADORES, DAÑADO TENSIOMETRO DE PEDESTAL, Y PORTATIL FALTA, JUEGOS DE CIRUGIA MENOR OXIDADOS, </td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001003</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >TIERRA BLANCA</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >GLADYS PEREZ</td>
+	<td id="cel_detalle" >04162025185</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Sin Formalizar</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >TUBERIAS DE AGUAS SERVIDAS SIN PENDIENTE, FALTA BARNIZAR LA ESTRUCTURA, DAÑOS GENERALES EN TODOS LOS BAÑOS, FILTRACIONES EN LA ENFERMERIA ILUMINACION EN GENERAL DEFICIENTE, DAÑADOS TENSIOMETRO DE PEDESTAL, ORL Y ESTERILIZADOR ELECTRICO</td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001004</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >LUISA CACERES DE ARISMENDI</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >HENRY FRIAS</td>
+	<td id="cel_detalle" >04129121181</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GOTERAS, RECTIFICAR PENDIENTE DE BAÑOS, CERRADURAS EXTERNAS DAÑADAS, TODOS LOS SIFONES Y CANILLAS DAÑADOS, TOMA CORRIENTES DAÑADOS, FALTA BARNIZAR ESTRUCTURA, DAÑADOS EL TENSIOMETRO DE PEDESTAL, INFANTOMETRO Y ESTETOSCOPIO CLASICO</td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001005</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >SANTA ISABEL</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >MARYORI OVIEDO</td>
+	<td id="cel_detalle" >04127229962</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >daños en baños en general,VENTANAS NO ABREN, RECTIFICAR PENDIENTE DE DESAGUE, EQUIPOS DAÑADOS: TABURETE GIRATORIO, SILLA SECRETARIAL, DVD, BASE AEREA, ESTETOSCOPIO, </td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001006</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >SAN RUPERTO</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >YENNY SANCHEZ</td>
+	<td id="cel_detalle" >04167154279</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >MEDICO ENFERMO DE DENGUE, GOTERAS Y FILTRACIONES, ILUMINACION INTERNA Y EXTERNA DEFICIENTE, FALTA EL TENSIOMETRO PORTATIL Y LOS EQUIPOS DE CIRUGIA MENOR, </td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001007</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >ERNESTO GUEVARA</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >HIBES LEON</td>
+	<td id="cel_detalle" >04241255819</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Sin Formalizar</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GRAVES GOTERAS,EN LA ZONA HAY EPIDEMIA DE DENGUE, DAÑOS GENERALES EN LOS BAÑOS ILUMINACION INTERNA DEFICIENTE, TANQUE BOTA EL AGUA (FALTA VALVULA) PAREDES AGRIETADAS, CAMBIAR ENCHUFES FALTA BARNIZAR PAREDES, FALTAN TENSIOMETRO DE PEDESTAL Y PORTATIL Y EL ORL ESTA DAÑADO</td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001008</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >ANTONIO JOSE DE SUCRE</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >MILENIS BRUZUAL</td>
+	<td id="cel_detalle" >04167108629</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Sin Formalizar</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GOTERAS EN LA RESIDENCIA, FILTRACION EN DONDE VA LA BOMBA DE AGUA, BARNIZAR ESTRUCTURA, BOMBA DE AGUA DAÑADA, ILUMINACION EXTERNA E INTERNA DEFICIENTE, TENSIOMETROS DE PEDESTAL Y PORTATIL FALTAN, NEVERA EJECUTIVA NO CUBRE NECESIDADES DEL MODULO, FALTA BASE AEREA, </td>
+						  </tr></table>
+				</td>
+				</tr>
+				<tr><td>pag: 1 de 1  </td></tr>
+				</table>
+</body>
+</html><html>
+<head>
+<title>Establecimientos</title>
+</head>
+<body><table border="0" cellspacing="0" cellpadding="0" width=700 style="">
+				<tr>
+				<td valign="top">
+				
+					<table width="100%" border="0" cellspacing="0" cellpadding="0"style="" >
+						  <tr>
+							<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td><span class="sin_borde"><img src="imagenes/logo_mpps.png" width="334" height="47" /></span></td>
+                                <td><div align="right"><img src="imagenes/logo_mpps3.png" width="75" height="48" /></div></td>
+                              </tr>
+                            </table></td>
+						  </tr>
+						</table>
+						<table width="100%" id="cuerpo_informe" border=0>
+<tr id="enc_pag">
+							
+	<th id="cel_enc_pag" >Código</th>
+	<th id="cel_enc_pag" >Parroquia</th>
+	<th id="cel_enc_pag" >Centro</th>
+	<th id="cel_enc_pag" >Ente Constructor</th>
+	<th id="cel_enc_pag" >Nombre</th>
+	<th id="cel_enc_pag" >Teléfono</th>
+	<th id="cel_enc_pag" >Piso</th>
+	<th id="cel_enc_pag" >Techo</th>
+	<th id="cel_enc_pag" >Paredes</th>
+	<th id="cel_enc_pag" >Agua Potable</th>
+	<th id="cel_enc_pag" >Aguas Servidas</th>
+	<th id="cel_enc_pag" >Electricidad</th>
+	<th id="cel_enc_pag" >Observación de las Condiciones</th>
+	<th id="cel_enc_pag" >Observaciones Generales</th>
+						  </tr>
+<tr id="enc_cte" >
+							<th  id="cel_enc_cte" colspan="16" >Estado: Distrito Capital</th>
+						  </tr>
+<tr id="enc_cte" >
+							<th  id="cel_enc_cte" colspan="16" >Municipio: Libertador</th>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010104001054</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >LA TOMA</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >MILAGROS HERNANDEZ</td>
+	<td id="cel_detalle" >04141956654</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GOTERAS EN LA RESIDENCIA,DAÑOS GENERALES EN LOS BAÑOS, MALA CONEXION EN LOS FREGADEROS, FALTA BARNIZAR ESTRUCTURA, FALTA LAMINAS EN TECHO RASO, ENCHUFES E INTERRUPTORES DAÑADOS, ILUMINACION EN ENFERMERIA DEFICIENTE, PUERTA PPAL DAÑADA, BOMBA DE AGUA CON DIFICULTADES AL ENCENDER, CERRADURAS EN GENERAL DAÑADAS, AMBOS TENSIOMETROS EN MAL ESTADO, EL MEDICO TIENE DENGUE Y ESTA DE REPOSO, POR LO TANTO LAS CONSULTAS ESTAN SUSPENDIDAS</td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001001</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >EL AVILA</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >ZORAIDA MACIAS</td>
+	<td id="cel_detalle" >04129943057</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >BARNIZAR ESTRUCTURA, DAÑOS GENERALES EN TODOS LOS BAÑOS, PUERTA PRINCIPAL FORZADA,FLOTANTE DEL TANQUE DE AGUA EN MAL ESTADO,ALUMBRADO EXTERIOR DEFICIENTE, FREGADEROS CON DAÑOS GENERALES, PUERTA DE BAÑOS DESPLEGABLES DAÑADAS, DAÑADOS LOS SIGUIENTES EQUIPOS: TENSIOMETRO DE PEDESTAL, INFANTOMETRO ORL </td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001002</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >EL CARDON</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >JUANA DE LINARES</td>
+	<td id="cel_detalle" >04167249221</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >FILTRACION EN PAREDES, FALTA BARNIZ EN LA ESTRUCTURA, CERRADURA DE LA PUERTA PPAL DAÑADA, ILUMINACION INTERNA Y EXTERNA EN MAL ESTADO, FREGADERO DE ENFERMERIA DAÑADO, ORL DAÑADO, FALTAN 2 VENTILADORES, DAÑADO TENSIOMETRO DE PEDESTAL, Y PORTATIL FALTA, JUEGOS DE CIRUGIA MENOR OXIDADOS, </td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001003</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >TIERRA BLANCA</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >GLADYS PEREZ</td>
+	<td id="cel_detalle" >04162025185</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Sin Formalizar</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >TUBERIAS DE AGUAS SERVIDAS SIN PENDIENTE, FALTA BARNIZAR LA ESTRUCTURA, DAÑOS GENERALES EN TODOS LOS BAÑOS, FILTRACIONES EN LA ENFERMERIA ILUMINACION EN GENERAL DEFICIENTE, DAÑADOS TENSIOMETRO DE PEDESTAL, ORL Y ESTERILIZADOR ELECTRICO</td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001004</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >LUISA CACERES DE ARISMENDI</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >HENRY FRIAS</td>
+	<td id="cel_detalle" >04129121181</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GOTERAS, RECTIFICAR PENDIENTE DE BAÑOS, CERRADURAS EXTERNAS DAÑADAS, TODOS LOS SIFONES Y CANILLAS DAÑADOS, TOMA CORRIENTES DAÑADOS, FALTA BARNIZAR ESTRUCTURA, DAÑADOS EL TENSIOMETRO DE PEDESTAL, INFANTOMETRO Y ESTETOSCOPIO CLASICO</td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001005</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >SANTA ISABEL</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >MARYORI OVIEDO</td>
+	<td id="cel_detalle" >04127229962</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >daños en baños en general,VENTANAS NO ABREN, RECTIFICAR PENDIENTE DE DESAGUE, EQUIPOS DAÑADOS: TABURETE GIRATORIO, SILLA SECRETARIAL, DVD, BASE AEREA, ESTETOSCOPIO, </td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001006</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >SAN RUPERTO</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >YENNY SANCHEZ</td>
+	<td id="cel_detalle" >04167154279</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Formal</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >MEDICO ENFERMO DE DENGUE, GOTERAS Y FILTRACIONES, ILUMINACION INTERNA Y EXTERNA DEFICIENTE, FALTA EL TENSIOMETRO PORTATIL Y LOS EQUIPOS DE CIRUGIA MENOR, </td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001007</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >ERNESTO GUEVARA</td>
+	<td id="cel_detalle" >Funda Caracas/DICOMAEJ</td>
+	<td id="cel_detalle" >HIBES LEON</td>
+	<td id="cel_detalle" >04241255819</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Sin Formalizar</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GRAVES GOTERAS,EN LA ZONA HAY EPIDEMIA DE DENGUE, DAÑOS GENERALES EN LOS BAÑOS ILUMINACION INTERNA DEFICIENTE, TANQUE BOTA EL AGUA (FALTA VALVULA) PAREDES AGRIETADAS, CAMBIAR ENCHUFES FALTA BARNIZAR PAREDES, FALTAN TENSIOMETRO DE PEDESTAL Y PORTATIL Y EL ORL ESTA DAÑADO</td>
+						  </tr>
+<tr id="detalle">
+							
+	<td id="cel_detalle" >CP010111001008</td>
+	<td id="cel_detalle" >La Pastora</td>
+	<td id="cel_detalle" >ANTONIO JOSE DE SUCRE</td>
+	<td id="cel_detalle" >Proyecto País</td>
+	<td id="cel_detalle" >MILENIS BRUZUAL</td>
+	<td id="cel_detalle" >04167108629</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Parcialmente Adecuado</td>
+	<td id="cel_detalle" >Adecuado</td>
+	<td id="cel_detalle" >Acueducto</td>
+	<td id="cel_detalle" >Cloacas</td>
+	<td id="cel_detalle" >Sin Formalizar</td>
+	<td id="cel_detalle" >Requiere Reparaciones Menores</td>
+	<td id="cel_detalle" >GOTERAS EN LA RESIDENCIA, FILTRACION EN DONDE VA LA BOMBA DE AGUA, BARNIZAR ESTRUCTURA, BOMBA DE AGUA DAÑADA, ILUMINACION EXTERNA E INTERNA DEFICIENTE, TENSIOMETROS DE PEDESTAL Y PORTATIL FALTAN, NEVERA EJECUTIVA NO CUBRE NECESIDADES DEL MODULO, FALTA BASE AEREA, </td>
+						  </tr></table>
+				</td>
+				</tr>
+				<tr><td>pag: 1 de 1  </td></tr>
+				</table>
+</body>
+</html>

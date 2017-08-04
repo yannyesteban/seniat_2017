@@ -1,0 +1,49 @@
+body,td,th{
+font-family:tahoma;
+font-size:8pt;
+
+}
+.datos{
+	font-weight: bold;
+}
+.cuadro{
+	border-color: silver;
+	border-width:2px;	
+}
+.lineas{
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+}
+.lineas3{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+}
+.lineas2{
+	text-transform: uppercase;
+	vertical-align: middle;
+	font-weight: bold;
+}
+.reporte_titulo{
+	text-align: center;
+	font-size: 11pt;
+	font-weight: bold;
+	margin: 3px;
+	
+}
+.titulo{
+	text-align: center;
+	font-size: 10pt;	
+	background-color: silver;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	border-bottom-style: ridge;
+	border-bottom-width: 2px;
+}
+.sub_titulo{
+	text-align: center;
+	font-size: 8pt;	
+	font-weight: bold;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	
+}

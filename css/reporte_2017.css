@@ -1,0 +1,150 @@
+/* Scss Document */
+body > span:nth-child(n+3) > table {
+  page-break-before: always; }
+
+.sigefor_rpt_titulo {
+  background-color: #a3a3a3;
+  text-transform: uppercase;
+  font-size: 8pt;
+  font-family: tahoma; }
+
+.sigefor_rpt_detalle {
+  padding-left: 4px;
+  text-transform: capitalize;
+  font-size: 7pt;
+  font-family: tahoma; }
+
+.sigefor_rpt_pie_inf {
+  background-color: #a3a3a3;
+  text-align: right;
+  font-size: 8pt;
+  font-family: tahoma;
+  font-weight: bold; }
+
+body {
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  font-family: Tahoma;
+  font-size: 8pt; }
+
+td {
+  font-family: tahoma;
+  font-size: 7pt;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  vertical-align: top; }
+
+th {
+  font-family: tahoma;
+  font-size: 7pt;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  border-bottom: solid #4c4c4c;
+  border-bottom-width: 2px;
+  text-decoration: none; }
+
+th.corte {
+  font-family: tahoma;
+  font-size: 7pt;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  text-align: left; }
+
+caption {
+  font-family: tahoma;
+  font-size: 7pt;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold; }
+
+td.negro {
+  color: #FFFAFA;
+  font-weight: bold;
+  background-color: #878787;
+  text-align: right; }
+
+td.rojo {
+  color: red;
+  font-weight: bold;
+  text-align: right; }
+
+th.rojo {
+  color: #FFF0F5;
+  font-weight: bold;
+  font-size: 7pt;
+  background-color: red; }
+
+.prisma {
+  color: Black;
+  font-weight: bold;
+  background-color: #EEEEEE;
+  font-size: 7pt; }
+
+th.k {
+  background: #006400;
+  color: Yellow; }
+
+.ex {
+  text-transform: uppercase;
+  font-size: 7pt;
+  color: White;
+  background-color: #A52A2A; }
+
+th.ex {
+  text-transform: uppercase;
+  font-size: 7pt;
+  color: #FFD700;
+  background-color: #6B8E23; }
+
+.ex1 {
+  text-transform: uppercase;
+  font-size: 7pt;
+  background-color: #B0E0E6;
+  cursor: pointer;
+  color: Navy; }
+
+th.clase_titulo_reporte {
+  background-color: #434343;
+  color: White;
+  font-size: 12pt;
+  pause-before: 1; }
+
+.QQQ {
+  color: red; }
+
+.XXX {
+  color: blue;
+  background-color: #E6E6FA; }
+
+.report_rpt_corte_0 {
+  text-align: left;
+  background-color: #FF9; }
+
+.report_rpt_pie_corte_0 {
+  background-color: #FF9;
+  border-bottom-color: #666;
+  border-bottom-style: solid;
+  border-bottom-width: 1px; }
+
+.report_rpt_corte_1 {
+  background-color: #ccc;
+  text-align: left;
+  padding-left: 10px; }
+
+.report_rpt_pie_corte_1 {
+  background-color: #ccc;
+  border-bottom-color: #03C;
+  border-bottom-style: solid;
+  border-bottom-width: 1px; }
+
+.report_rpt_pie_inf {
+  background-color: #3FF;
+  border-bottom-color: #03C;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  font-weight: bold; }

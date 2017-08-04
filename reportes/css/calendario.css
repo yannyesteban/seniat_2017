@@ -1,0 +1,151 @@
+th.cal_especial{
+	text-align:center;
+	font-family:tahoma,arial;
+	color:#00008B;
+	font-size:9pt;
+	text-transform:capitalize;
+	padding-left: 4px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: White;
+}
+caption.cal_cap_especial{
+	padding-left: 0px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #E6E6FA;
+	color: #00008B;
+	text-align:center;
+	font-size:9pt;
+	font-family:tahoma,arial;
+}
+input.cal_especial,select.cal_especial{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #F0F8FF;
+	color: #00008B;
+	text-align:left;
+	font-size:8pt;
+	font-family:tahoma,arial;
+	font-weight: bold;
+	cursor:pointer;
+	vertical-align: top;
+}
+table.cal_especial{
+	background: #E6E6FA;
+/*	border: 1px solid #5F9EA0;
+	border-collapse: collapse;*/
+	}
+td.cal_especial{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #F0F8FF;
+	color: #00008B;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+}
+td.cal_especial_sel{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #0000CD;
+	color: White;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+}
+td.cal_especial_over{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #6495ED;
+	color: #F0FFFF;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	cursor:pointer;
+}
+th.cal_hoy_especial_over{
+	text-align:center;
+	font-family:tahoma,arial;
+	color: #006400;
+	font-size:9pt;
+	padding-left: 0px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: White;
+	cursor:pointer;
+}
+th.cal_hoy_especial{
+	padding-left: 0px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #E6E6FA;
+	color: #00008B;
+	text-align:center;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	cursor:pointer;
+
+}
+
+td.cal_hoy_especial_over{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #E6E6FA;
+	color: #00008B;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	cursor:pointer;
+}
+
+caption.cal_especial{
+	font-family: tahoma,arial;
+	color: Purple;
+	line-height: 24pt;
+	text-align: center;
+	font-size: 12pt;
+	vertical-align: middle;
+	font-weight: bold;
+}
+td.cal_sem_especial{
+	text-align:right;
+	font-family:tahoma,arial;
+	color:#00008B;
+	font-size:9pt;
+	padding-right: 6px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: White;
+	font-weight: bold;
+
+}
+td.cal_sem_especial_over{
+	text-align:right;
+	font-family:tahoma,arial;
+	color:#00008B;
+	font-size:9pt;
+	padding-right: 6px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #E6E6FA;
+	font-weight: bold;
+	cursor:pointer;
+}
+.calendario_logo {
+	font-weight: bold; font-size: 0px; 
+	background-image: url(../imagenes/calendario.gif); 
+	width: 26px; 
+	cursor: pointer; 
+	border-top-style: none; 
+	border-right-style: none; 
+	border-left-style: none; 
+	height: 22px; 
+	background-color: #ffffff; 
+	border-bottom-style: none
+}

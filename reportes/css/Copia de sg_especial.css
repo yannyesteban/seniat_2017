@@ -1,0 +1,41 @@
+th.crema{
+	font-size: 9px;
+background-image: url(../imagenes/fondo_azul_fuerte.gif);
+background-attachment: scroll;
+	height: 26px;
+	color: #F8D93D;
+	font-weight: bold;
+	text-align: center;
+}
+td.crema{
+	background-color: #F8D93D;
+	
+	border-color: red;
+
+	border-width: 1px;
+	color: #181EA5;
+	text-align:left;
+	font-size:9px;
+	font-family:verdana,arial;
+	font-weight: bold;
+	
+}
+td.crema_over{
+	font-size: 9px;
+	background-color: #1A50B8;
+	color: #FFFFFF;
+	cursor:pointer;
+	font-weight: bold;
+}
+td.crema_here{
+	font-size: 9px;
+	
+	color: Purple;
+	font-weight: bold;
+	
+}
+table.crema{
+	background-color: #F8D93D;	
+		border-color: #F8D93D;
+	border-width: 1px;
+}

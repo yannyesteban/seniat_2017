@@ -1,0 +1,835 @@
+html{
+	height: 100%;
+}
+form{
+	margin: 0px;
+}
+body{
+
+	background-image: url(../../../wallpapers/592.jpg);
+	background-attachment:fixed;
+	height: 100%;
+	margin: 0px;
+	
+	font-size: 8pt;
+	font-family: Tahoma;
+	text-align: left;	
+}
+.sg_panel_1{	
+	border-color:transparent;
+	border-width:3px;
+	border-style:solid;
+	padding:1px;
+	background-image: url(../../transparencias/Muestras/255_255_255_p80.png);
+}
+.sg_panel_7{
+	border-color:transparent;
+	border-width:3px;
+	border-style:solid;
+	padding:1px;
+	background-image: url(../../transparencias/Muestras/255_255_255_p40.png);
+	
+	}
+.sg_panel_3{
+	padding:3px;
+	background-image: url(../../transparencias/Muestras/255_0_0_p100.png);
+}
+.sg_panel_4{
+	border-width:8px;
+	padding:2px;
+	background-image: url(../../transparencias/Muestras/255_255_255_p20.png);
+}
+.sg_panel_5{
+	padding:2px;
+	background-image: url(../../transparencias/Muestras/255_255_255_p20.png);
+}
+.sg_panel_100{
+	background-image: url(../../transparencias/Muestras/255_255_255_p20.png);
+
+}
+.sg_panel_10{
+	/*z-index:-100;*/
+	position:fixed;
+	height:30px;
+	bottom:0;
+	width:100%;
+	background-image: url(../../transparencias/Muestras/0_0_0_p60.png);
+
+}
+.sg{
+
+	margin-bottom:30px;
+	
+
+}
+/****** seccion Menues **********************/
+table.sigefor_men{
+
+	border-style:solid;
+	border-color:#FFF;
+	border-width:1px;
+	background-color: transparent;
+	border-spacing:3px;
+	
+	border-collapse:separate;
+	margin-bottom:4px;	
+	
+}
+.sigefor_men_titulo{
+	background: url(../../degradados/26.png);
+	height:25px;
+	text-transform:capitalize;
+	color:white;
+	
+	/*color: #FFFFFF;*/
+	/*
+	
+	
+	background: url(../../../degradados/degradado_006.png);
+	text-shadow: black 0.1em 0.1em 0.2em;
+	
+	
+	font-weight: bold;*/
+}
+.sigefor_men_itm{
+	background-color:  transparent;
+	height:25px;
+	color: gray;
+
+	font-weight: bold;
+	/*background-image: url(../../../degradados/degradado_005.png);*/
+	
+	/*text-shadow: black 0.1em 0.1em 0.2em;*/
+	background-image: url(../../transparencias/Muestras/242_242_242_p80.png);
+	padding-left:5px;
+
+}
+.sigefor_men_itm_over{
+	background-color: transparent;
+	/*background: url(../../../degradados/degradado_003.png);*/
+	background-image: url(../../transparencias/Muestras/0_0_0_p60.png);
+	height:25px;
+	color: yellow;
+	cursor: pointer;
+	font-weight: bold;
+	z-index: 1;
+	padding-left:5px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.sigefor_men_itm_disabled{
+	background:  url(../../../transparencias/desaturado/202_181_111_p20.png);
+	color: white;
+	font-weight: bold;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+
+/****** seccion Menues **********************/
+input,textarea, select{
+	font-size: 8pt;
+	font-family: Tahoma;
+	border: 1px solid #CCC;
+	
+	color:#666666;
+	background-color:white;
+	
+	/*text-transform:uppercase;*/
+}
+
+select option{
+	font-size: 8pt;
+	font-family: Tahoma;
+	
+	
+	
+	color:#666666;
+	background-color:transparent;
+	/*background-image:url(../imagenes/balnco3.png);*/
+	
+	/*text-transform:uppercase;*/
+}
+
+textarea{
+	font-size: 8pt;
+	font-family: Tahoma;
+}
+
+
+/*    estilos  */
+
+
+div.sigefor_div_buscar{
+	background: #fffb82;
+}
+
+.sigefor_pag_ir_a{
+	color: red;
+	font-weight: bold;
+	font-size: 8pt;
+}
+hr.sigefor_pag_regla{
+	color: #006400;
+	border: 1px solid #006400;
+	}
+select.sigefor_pag_combo{
+	font-family: Tahoma;
+	font-size: 8pt;
+	color: blue;
+	background: #f0f8ff;
+	font-weight: bold;
+	border: 1px solid blue;
+}
+.sigefor_consulta{
+	background-color:transparent;
+}
+.sigefor_con_pie_consulta{
+	/*background-color: transparent;*/
+	background-image: url(../../transparencias/Muestras/0_0_0_p20.png);
+	
+	color:#FFFFFF;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-color: #f4a460;
+	text-align:right;
+	padding-right:10pt;
+	/*background: #ffe5e9 url(../../transparencias/desaturado/193_221_228_p20.png);*/
+}
+
+table.sigefor_form_buscar{
+	background-color: white;
+	width: 280px;
+	vertical-align: middle;
+}
+table.sigefor_paginador{
+	background: transparent;
+	height: 10px;
+	text-align: center;
+	margin: 0 auto;
+}
+.sigefor_pag_cont{
+	text-align: center;
+	background-color:transparent;
+	color:#FF0;
+	background-image:url(../imagenes/blanco11.png);
+}
+.sigefor_for_indicador{
+	color: #FFFFFF;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+
+
+td.sigefor_for_control, td.sigefor_form_q{
+	/*
+	background: url(../../../transparencias/brillante/203_97_3_p40.png);
+	text-shadow: black 0.1em 0.1em 0.2em;
+	color: #FFFFFF;
+	*/
+	background: url(../../../transparencias/Muestras/255_255_255_p20.png);
+
+}
+table.sigefor_form_q{
+	
+	
+	border-collapse:separate;
+	border-style:none;
+	border-bottom-width:10px;
+	
+	}
+td.sigefor_form_q{
+	padding-top:5px;
+	vertical-align: text-bottom;
+	text-align: center;
+	/*background-image: url(../imagenes/fondo_xazul.png);*/
+	height: 32px;
+	color: white;
+	background-color: #8fbc8f;
+	background: url(../../transparencias/muestras/0_0_0_p20.png.png);
+	
+}
+th.sigefor_for_titulo{
+	/*
+	background-color: transparent;
+	text-align: left;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color:#FFF;
+	background: url(../../../transparencias/Muestras/241_90_36_p40.png);
+	text-shadow: black 0.1em 0.1em 0.2em;
+	*/
+	/*text-transform:uppercase;*/
+	background: url(../../../transparencias/flores/242_235_154_p80.png);
+
+}
+th.sigefor_form_q{
+	background-color: #5f9ea0;
+	text-align: center;
+	color: #ffffe0;
+
+}
+
+caption.sigefor,.sigefor_con_caption,.sigefor_for_caption{
+	color: #FFFFFF;
+	padding: 2px;
+	background-image: url(../../../degradados/47.png);
+	text-shadow: black 0.1em 0.1em 0.2em;
+	font-size: 9pt;
+	font-family: Tahoma;
+	text-align: center;
+	font-weight: bold;
+	height:20px;
+	vertical-align:middle;
+	padding-top:4px;
+	text-transform:uppercase;
+	margins: 1px 1px 1px 1px;
+}
+.sigefor_con_contador_over{
+	cursor: pointer;
+	border-style: outset;
+	border-width: 2px;
+	border-bottom-color: #e0ffff;
+	background-image: url(../imagenes/fondo_xrojo3.png);
+	color: white;
+	background-repeat: repeat-x;
+	background-position: center;
+}
+.sigefor_con_grupo{
+	background-color: blue;
+	color: #fffafa;
+}
+
+
+.sigefor_for_grupo{
+	text-align: center;
+	background-image: url(../../../../transparencias/frio/51_102_108_p20.png);
+	text-shadow: black 0.1em 0.1em 0.2em;
+	height:1.4em;
+	font-size:10pt;
+	color: #FFFFFF;
+}
+.sigefor_con_contador0,.sigefor_con_seleccion0,.sigefor_con_detalle0{
+	background-color: transparent;
+	color: black;
+	height:  2em;
+	padding: 0px 2px 0px 2px;
+	background-image: url(../../../../transparencias/Muestras/255_255_255_p40.png);
+	/*text-shadow: black 0.1em 0.1em 0.2em;*/
+}
+.sigefor_con_contador1,.sigefor_con_seleccion1,.sigefor_con_detalle1{
+	background-color: transparent;
+	color: black;
+	height: 8px;
+	padding: 0px 2px 0px 2px;
+	height:  2em;
+	background-image: url(../../../../transparencias/Muestras/255_255_255_p60.png);
+	/*text-shadow: black 0.1em 0.1em 0.2em;*/
+}
+input.sigefor_con_ctl_seleccion{
+	border-bottom-style: none;
+}
+.sigefor_con_titulo{
+
+	border-bottom-color: #f0ffff;
+
+	
+	
+	background-color: transparent;
+	text-align: left;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color:#FFF;
+	background: url(../../../transparencias/Muestras/255_0_0_p80.png);
+	text-shadow: black 0.1em 0.1em 0.2em;
+	/*text-transform:uppercase;*/
+	
+	
+}
+.sigefor_pag_cont{
+	
+}
+td.sigefor_navegador{
+	text-align: right;
+	background-image: url(../../transparencias/desaturado/74_70_55_p20.png);
+}
+input.sigefor_nav_item,.sigefor_form_q_boton{
+	background-image: url(../../degradados/44.png);
+	color: white;
+	cursor: pointer;
+	border: 1px solid #FF6;
+	font-weight: bold;
+	font-size: 8pt;
+	
+	text-shadow: black 0.1em 0.1em 0.2em;
+	
+}
+input.sigefor2_nav_item{
+	background-image: url(../../degradados/degradado_006.png);
+	color: white;
+	cursor: pointer;
+	border: 1px solid #FF6;
+	font-weight: bold;
+	font-size: 8pt;
+	
+	text-shadow: black 0.1em 0.1em 0.2em;
+	
+}
+
+input.sigefor2_nav_item:HOVER, input.sigefor_nav_item:HOVER,.sigefor_form_q_boton:HOVER{
+	
+	color: #FF0;
+	cursor: pointer;
+	border: 1px solid #FF6;
+	font-weight: bold;
+	font-size: 8pt;
+	
+	
+	
+}
+input.sigefor_con_nuevo{
+	background-image: url(../imagenes/barra_titulo_azul.png);
+	vertical-align: top;
+	font-weight: bold;
+	cursor: pointer;
+	color: white;
+}
+.sigefor_navegador{
+}
+
+/*    estilos del calendario */
+.sigefor_cal_icono{
+	font-weight: bold; font-size: 0px; 
+	background-image: url(../imagenes/calc3.png); 
+	width: 28px; 
+	cursor: pointer; 
+	border-top-style: none; 
+	border-right-style: none; 
+	border-left-style: none; 
+	height: 20px; 
+	background-color:transparent;
+	
+	border-bottom-style: none;
+	vertical-align:super;
+}
+th.sigefor_cal_dia, th.sigefor_cal_semana{
+	text-align:center;
+	font-family:tahoma,arial;
+	color: #FF6600;
+	font-size:9pt;
+	text-transform:capitalize;
+	padding-left: 4px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: White;
+	background: #006400 url(../imagenes/efecto_10.png);
+}
+.sigefor_cal_mes_ant,.sigefor_cal_mes_sig,.sigefor_cal_mes,.sigefor_cal_ano{
+	padding-left: 2px;
+	border-color: #dbffee;
+	border-width: 1px;
+	color: red;
+	text-align:left;
+	font-size:8pt;
+	font-family:tahoma,arial;
+	font-weight: bold;
+	cursor:pointer;
+	vertical-align: top;
+	background: teal url(../imagenes/fondo_001.png);
+}
+table.sigefor_cal{
+	background: white;
+}
+caption.sigefor_cal_caption{
+	background-color: fuchsia;
+	color: aqua;
+}
+td.sigefor_cal_dia{
+	padding-left: 2px;
+	border-color: #ee82ee;
+	border-width: 1px;
+	background: #FFFFCC;
+	color: #333333;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+}
+td.sigefor_cal_sel{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: url(../imagenes/fondo_n01.png);
+	color: White;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+}
+td.sigefor_cal_dia_over{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	color: white;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	cursor:pointer;
+	background: url(../imagenes/fondo_xverde1.png);
+}
+th.sigefor_cal_hoy_over{
+	text-align:center;
+	font-family:tahoma,arial;
+	color: red;
+	font-size:9pt;
+	padding-left: 0px;
+	border-color: #DAA520;
+	border-width: 1px;
+	background: #2f4f4f;
+	cursor:pointer;
+	background: #006400 url(../imagenes/fondo_xrojo3.png);
+}
+th.sigefor_cal_hoy{
+	padding-left: 0px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #006400 url(../imagenes/fondo_n02.png);
+	color: white;
+	text-align:center;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	cursor:pointer;
+}
+td.sigefor_cal_semana{
+	text-align:right;
+	font-family:tahoma,arial;
+	color: white;
+	font-size:9pt;
+	padding-right: 6px;
+	border-color: #DAA520;
+	border-width: 1px;
+	background: #FF9933;
+	font-weight: bold;
+
+}
+td.sigefor_cal_semana_over{
+	text-align:right;
+	font-family:tahoma,arial;
+	color: #2e8b57;
+	font-size:9pt;
+	padding-right: 6px;
+	border-color: #DAA520;
+	border-width: 1px;
+	background: #afeeee;
+	font-weight: bold;
+	cursor:pointer;
+}
+/*    estilos del query 2004 */
+th.query{
+	font-size: 9pt;
+	font-family: Tahoma;
+	color: #FFFFFF;
+	background-color: #003399;
+	text-align: center;
+	font-weight:bold;
+	text-transform: capitalize;
+	padding-left: 4px;
+	padding-right: 4px;
+	background-image:url(../imagenes/fondo_azul.gif);
+}
+a.query,tr.query,td.query{
+	font-size: 8pt;
+	font-family: Tahoma;
+	background-color: #D5F4FF;
+	color: #003399;
+	text-align: left;
+}
+table.query{
+	font-size: 8pt;
+	font-family: Tahoma;
+	background-color: #93BEFF;
+	color: #003399;
+	text-align: left;
+	border-color: #0066CC;
+}
+
+
+
+
+
+.barra_est{
+	
+	/*background: url(../imagenes/fondo_xrojo2.png);*/
+	background-image: url(../imagenes/blanco9);
+	padding: 4px;
+}
+table.sigefor td{
+	
+	
+	color:#FFFFFF;
+}
+	
+
+.sigefor_formulario{	
+border-style:solid;
+	border-color:#CCC;
+	border-width:1px;	
+}
+
+.sigefor_pag_itm_ini, .sigefor_pag_itm_ant, .sigefor_pag_itm_sig, .sigefor_pag_itm_fin {
+	height: 14px;
+	width:12px;
+	line-height: 14px;
+	background-image: url("../imagenes/20.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+}
+.sigefor_pag_itm_ini{
+  background-position: 1px 2px;
+}
+.sigefor_pag_itm_ant{
+	background-position: -13px 2px;
+}
+.sigefor_pag_itm_sig{
+	background-position: -26px 2px;
+}
+.sigefor_pag_itm_fin{
+	background-position: -40px 2px;
+}
+.sigefor_pag_itm_ini:HOVER, .sigefor_pag_itm_ant:HOVER, .sigefor_pag_itm_sig:HOVER, .sigefor_pag_itm_fin:HOVER{
+	height: 14px;
+	width:12px;
+	line-height: 14px;
+	background-image: url("../imagenes/flechas_colores_f01.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+}
+.sigefor_pag_itm{
+	background-color: transparent;
+	text-align: center;
+	color:#F00;
+	cursor: pointer;
+}
+.sigefor_pag_itm:HOVER{
+	text-align: center;
+	color: #C4D2FF;
+	cursor: pointer;
+	background-color: #0066CC;
+}
+.sigefor_pag_itm_act{
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+
+
+
+
+
+
+
+
+
+span.sigefor_for_control, div.sigefor_for_control{
+	color:#FFCC66;
+	margin-left:20px;
+
+
+}
+
+
+
+
+	
+.resumen_caption{
+	background:  url(../../degradados/29.png);
+	text-align:right;
+	color:white;
+	height:25px;
+	font-weight: bold;
+	text-align:center;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	vertical-align:middle;
+	padding-top:6px;
+
+}
+.resumen_titulo{
+	background: url(../../transparencias/desaturado/202_156_169_p40.png);
+    text-align: left;
+	color:#FFCC66;
+	color:#900;
+	padding-left:5px;
+	
+	/*text-shadow: black 0.1em 0.1em 0.2em;*/
+		
+}
+.resumen_dato{
+	color:#F00;
+    text-align: left;
+	margin-left:20px;
+	/*text-shadow: black 0.1em 0.1em 0.2em;	*/
+}
+
+
+.resumen_sol_caption{
+	background:  url(../../degradados/24.png);
+	color:white;
+	height:25px;
+	font-weight: bold;
+	text-align:center;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	padding-top:6px;
+
+}
+.resumen_sol{
+margin-top:5px;
+
+}
+.resumen_sol_titulo{
+	background: url(../../transparencias/Muestras/0_0_0_p20.png);
+    text-align: left;
+color:#C2D0FE;
+	
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+.resumen_sol_dato{
+    text-align: left;
+color:#FFFFFF;
+	
+	margin-left:20px;
+	text-shadow: black 0.1em 0.1em 0.2em;	
+
+}
+
+.resumen_nro_solicitud{
+	color:yellow;
+}
+
+.titulo_modulo{
+	font-family:verdana;
+	font-size:10pt;
+	color:#FC0;
+	
+	padding-left:20px;
+	text-shadow: black 0.1em 0.1em 0.2em;		
+	
+}
+
+.pie{
+	font-family:verdana;
+	font-size:10pt;
+	color:#CCC;
+	text-align:center;
+	text-shadow: black 0.1em 0.1em 0.2em;		
+	
+}
+.pie2{
+	font-family:verdana;
+	font-size:10pt;
+	color:#FF0;
+	text-align:center;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	text-transform:uppercase;		
+	font-weight:bold;
+}
+
+.titulo_2{
+	text-align:right;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:10pt;
+	font-weight:bold;
+	color:#FFF;
+	padding-right:30px;
+	padding-top:5px;
+	text-transform:uppercase;
+	height:30px;
+	
+text-shadow: black 0.2em 0.2em 0.2em;		
+}
+
+
+.resumen_caption_1{
+	background:  url(../../degradados/18.png);
+	text-align:right;
+	color:white;
+	height:25px;
+	font-weight: bold;
+	text-align:center;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	vertical-align:middle;
+	padding-top:6px;
+
+}
+.resumen_titulo_1{
+	background: url(../../transparencias/Muestras/247_147_30_p20.png);
+    text-align: left;
+	color:#000;
+	
+	padding-left:5px;
+	
+	/*text-shadow: white  0.1em 0.1em 0.2em;
+	text-shadow: black 0.1em 0.1em 0.2em;*/
+		
+}
+.resumen_dato_1{
+	color:#F00;
+    text-align: left;
+	margin-left:20px;
+	/*text-shadow: gray 0.1em 0.1em 0.2em;	*/
+}
+
+
+
+
+input:disabled, select:disabled{
+	background: #CCC;
+	border:#FFF;
+	border-width:1px;
+	border-style:solid;
+}
+input:focus{
+	
+	border:orange;
+	border-width:1px;
+	border-style:solid;
+}
+
+
+.sigefor_ayu_boton{
+margin-left:2px;
+font-family:verdana;
+font-weight:bold;
+cursor:pointer;
+color:white;
+background: url(../../degradados/degradado_005.png);
+}
+.sigefor_ayu_com{
+background-color:#FFFFCC;
+margin:3px;
+padding:3px;
+border-style:solid;
+border-width:2px;
+border-color:#FFCC33;
+
+
+}
+
+.sigefor_ayu_bots{
+background: url(../../degradados/17.png);
+font-family:verdana;
+font-size:7pt;
+font-weight:bold;
+width:16px;
+height:17px;
+cursor:pointer;
+color:white;
+padding-bottom:8px;
+
+}
+
+.sigefor_ayu_divs{
+text-align:right;
+}

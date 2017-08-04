@@ -1,0 +1,91 @@
+th.crema{
+	font-size: 8pt;
+background-image: url(../imagenes/fondo_azul_fuerte.gif);
+background-attachment: scroll;
+	height: 26px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+}
+td.crema{
+	background-color: #F0F8FF;
+	
+	border-color: #E6E6FA;
+	border-width: 1px;
+	color: #00008B;
+	text-align:center;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	
+	
+}
+td.crema2{
+	background-color: #FFF0F5;
+	
+	border-color: #E6E6FA;
+	border-width: 1px;
+	color: Fuchsia;
+	text-align:center;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	
+	
+}
+td.crema3{
+	background-color: #FFE1A8;
+	
+	border-color: #E6E6FA;
+	border-width: 1px;
+	color: #FF6347;
+	text-align:left;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	
+	
+}
+td.crema3_over{
+	font-size: 9pt;
+	background-color: #FFA07A;
+	color: #FFFFFF;
+	cursor:pointer;
+}
+td.crema2_over{
+	font-size: 9pt;
+	background-color: #FF02BA;
+	color: #FFFFFF;
+	cursor:pointer;
+}
+
+td.crema_over{
+	font-size: 9pt;
+	background-color: #1E90FF;
+	color: #FFFFFF;
+	cursor:pointer;
+}
+td.crema_here,td.crema_here_over{
+	font-size: 9pt;
+	color: Purple;
+	font-weight: bold;
+	
+}
+table.crema{
+	background-color: #E6E6FA;	
+}
+
+.crema_icono{
+text-align: right;
+
+ 
+}
+td.crema_disabled{
+	background-color: #A9A9A9;
+	
+	border-color: #767676;
+	border-width: 1px;
+	color: #646464;
+	text-align:center;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	text-shadow: Yellow;
+	
+	}

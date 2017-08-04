@@ -1,0 +1,230 @@
+body{
+	font-size: 9px;
+	font-family: verdana;
+	margin-left: 0;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-top: 0;
+	scrollbar-face-color: #E1F0FF;
+	scrollbar-highlight-color: #E1F0FF;
+	scrollbar-shadow-color: #171DA3;
+	scrollbar-arrow-color: #171DA3;
+	scrollbar-base-color: #171DA3;
+}
+hr{
+color:#E6E6FA;
+
+
+}
+th.especial{
+	text-align:left;
+	font-family:verdana,arial;
+	color:#00008B;
+	font-size:9px;
+	text-transform:capitalize;
+	padding-left: 4px;
+		border-color: #6495ED;
+		border-width: 1px;
+		background: White;
+}
+th.especial2{
+	text-align:left;
+	font-family:verdana,arial;
+	color:#181EA5;
+	font-size:9px;
+	text-transform:capitalize;
+	padding-left: 4px;
+		border-color: #6495ED;
+		border-width: 1px;
+		background: #E1F0FF;
+}
+th.especial3{
+	text-align:left;
+	font-family:verdana,arial;
+	color: #00008B;
+	font-size:9px;
+	text-transform:capitalize;
+	padding-left: 4px;
+		border-color: #6495ED;
+		border-width: 1px;
+		background: Silver;
+}
+th.rojo{
+	text-align:left;
+	font-family:verdana,arial;
+	color: white;
+	font-size:9px;
+	text-transform:capitalize;
+	padding-left: 4px;
+		border-color: #6495ED;
+		border-width: 1px;
+		background: red;
+}
+th.negro{
+	text-align:left;
+	font-family:verdana,arial;
+	color: white;
+	font-size:9px;
+	text-transform:capitalize;
+	padding-left: 4px;
+		border-color: #6495ED;
+		border-width: 1px;
+		background: black;
+}
+textarea.especial,input.especial,select.especial{
+
+	border-color: #666666;
+	border-style:solid;
+	border-width:1px;
+	text-align:left;
+	font-size:10pt;
+	font-family:verdana,arial;
+}
+table.especial,table.verdex{
+	background: #E6E6FA;
+/*	border: 1px solid #5F9EA0;
+	border-collapse: collapse;*/
+	}
+td.especial,td.verdex{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: white;
+	color: #00008B;
+	text-align:left;
+	font-size:9px;
+	font-family:verdana,arial;
+		
+}
+td.especial2{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	
+	color:#181EA5;
+	text-align:left;
+	font-size:9px;
+	font-family:verdana,arial;
+	font-weight: bold;
+		
+}
+td.especial3{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #6495ED;
+	color: White;
+	text-align:left;
+	font-size:9px;
+	font-family:verdana,arial;
+		
+}
+td.rojo{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: red;
+	color: White;
+	text-align:left;
+	font-size:9px;
+	font-family:verdana,arial;
+		
+}
+td.negro{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: black;
+	color: White;
+	text-align:left;
+	font-size:9px;
+	font-family:verdana,arial;
+		
+}
+caption.especial,caption.especial2{
+	font-family: verdana,arial;
+	color: #181EA5;
+	line-height: 24pt;
+	text-align: right;
+	font-size: 12pt;
+	vertical-align: middle;
+	font-weight: bold;
+}
+th.grupo_especial{
+	text-align: center;
+	color: Purple;
+}
+.options_especial{
+	color: #00008B;
+	text-align:left;
+	font-size:10pt;
+	font-family:verdana,arial;
+	
+}
+textarea.verdex,input.verdex{
+	background-color: #E9F9E9;
+	border-color: Green;
+	border-style:solid;
+	border-width:1px;
+	color: Green;
+	text-align:left;
+	font-size:10pt;
+	font-family:verdana,arial;
+}
+input.green2{
+	background:;
+	background-color: #6495ED;
+	color: #F0F8FF;
+	font-family: verdana;
+	font-size: 10pt;
+	font-weight: bold;
+	text-align: center;
+}
+input.green3{
+	
+	font-family: verdana;
+	font-size: 9px;
+	font-weight: bold;
+	text-align: center;
+	cursor:pointer;
+	
+}
+input.green3a{
+	
+	background-color: #F0F8FF;
+	color: #00008B;
+	font-family: verdana;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	border: 2px outset #E4C9F1;
+	border-bottom: double #D8BFD8;
+	border-right: double #D8BFD8;
+	border-top: 3px solid #D3D3D3;
+	
+}
+
+td.green3{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #F0F8FF;
+	color: #00008B;
+	text-align: center;
+	font-size:9px;
+	font-family:verdana,arial;
+		
+}
+input.negro{
+	
+	background-color: White;
+	color: white;
+	font-family: verdana;
+	font-size: 8pt;
+	font-weight: bold;
+	border: 2px outset black;
+	border-bottom: double black;
+	border-right: double black;
+	border-top: 3px solid black;
+	
+}

@@ -1,0 +1,141 @@
+body{
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+td{
+	font-family: tahoma;
+	font-size: 10pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+
+
+	vertical-align:top;
+	padding-left: 2px;
+}
+th{
+	font-family: tahoma;
+	font-size: 10pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+
+	text-decoration: none;
+	vertical-align:top;
+	background-color: #C7C7C7;
+	padding-left: 2px;
+
+}
+th.reg_1{
+	background-color: #E5E5E5;
+}
+td.centro_1{
+	text-align:center;
+	/*padding-right: 15px;*/
+}
+.negritas{
+font-weight:bold;
+}
+td.sin_borde{
+	border-bottom-style: none;
+	border-bottom-width: 0px;
+	vertical-align:top;
+	padding-left: 2px;
+}
+
+th.corte
+{
+	font-family: tahoma;
+	font-size: 7pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	text-align:left;
+
+}
+table{
+border-style: solid;
+
+	
+}
+caption{
+	font-family: tahoma;
+	font-size: 10pt;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+
+}
+td.negro{
+	color: #FFFAFA;
+	font-weight: bold;
+	background-color: #878787;
+	text-align: right;
+
+}
+td.rojo{
+	color: red;
+	font-weight: bold;
+	text-align: right;
+}
+th.rojo{
+	color: #FFF0F5;
+	font-weight: bold;
+	font-size: 7pt;
+	background-color: red;
+
+}
+.prisma{
+	color: Black;
+	font-weight: bold;
+	background-color: #EEEEEE;
+	font-size: 7pt;
+}
+th.k{
+	background: #006400;
+	color: Yellow;
+	
+	
+}
+.ex{
+	text-transform: uppercase;
+	font-size: 7pt;
+	color: White;
+	background-color: #A52A2A;
+}
+th.ex{
+	text-transform: uppercase;
+	font-size: 7pt;
+	color: #FFD700;
+	background-color: #6B8E23;
+
+}
+.ex1{
+	text-transform: uppercase;
+	font-size: 7pt;
+	background-color: #B0E0E6;
+	cursor: pointer;
+	color: Navy;
+
+}
+th.clase_titulo_reporte{
+	background-color: Navy;
+	color: White;
+	font-size: 12pt;
+	pause-before: 1;
+}
+.QQQ{
+	color:red;
+}
+.XXX{
+	color:blue;
+	background-color: #E6E6FA;
+
+	
+	
+}
+img{border:none;

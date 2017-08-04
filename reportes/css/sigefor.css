@@ -1,0 +1,19 @@
+body,td,th,table{
+	font-size: 8pt;
+	font-family: Tahoma;
+	margin-left: 0;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-top: 0;
+}
+body{
+	scrollbar-3dlight-color : #E6E6FA9;
+	scrollbar-arrow-color : blue;
+	scrollbar-base-color : #F0F8FF;
+	scrollbar-darkshadow-color :  #F0F8FF;
+	scrollbar-face-color : #E6E6FA;
+	scrollbar-highlight-color : #999999;
+	scrollbar-shadow-color : #999999;
+	scrollbar-track-color : #E6E6FA;	
+
+}

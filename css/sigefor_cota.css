@@ -1,0 +1,400 @@
+body{
+	font-size: 8pt;
+	font-family: Tahoma;
+	margin-left: 0;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-top: 0;
+	scrollbar-3dlight-color : #E6E6E6;
+	scrollbar-arrow-color : White;
+	scrollbar-base-color : Black;
+	scrollbar-darkshadow-color : #E6E6E6;
+	scrollbar-face-color : #9B9B9B;
+	scrollbar-highlight-color : Black;
+	scrollbar-shadow-color : Black;
+	scrollbar-track-color : #E6E6E6;
+	/*text-transform:uppercase;*/
+}
+form{
+	background-color: white;
+	margin-left: 0;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-top: 0;
+}
+table{
+}
+th{
+	background-color: white;
+	color: black;
+	font-weight:bold;
+	font-size: 8pt;
+	font-family: Tahoma;
+	text-align: left;
+	border:2;
+}
+td{
+	background-color: white;
+	color: black;
+	font-size: 8pt;
+	font-family: Tahoma;
+	border:2;
+}
+input,select,textarea{
+	font-size: 8pt;
+	font-family: Tahoma;
+	border: 1px solid #6495ED;
+	/*text-transform:uppercase;*/
+}
+textarea{
+	font-size: 8pt;
+	font-family: Tahoma;
+}
+form{
+	margin-bottom: 0;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+a{
+	color: Black;
+}
+/*    estilos  */
+table.sigefor_men{
+	border: 0;
+	background-color: black;
+}
+.sigefor_men_titulo{
+	color: white;
+	background: url(../imagenes/fondo_x6.png);
+	height:25px;
+	font-weight: bold;
+}
+.sigefor_men_itm_over{
+	background: url(../imagenes/fondo_xverde.png);
+	height:20px;
+	color: white;
+	cursor: pointer;
+	font-weight: bold;
+	z-index: 1;
+}
+.sigefor_men_itm{
+	background-color: black;
+	height:20px;
+	color:white;
+	font-weight: bold;
+}
+div.sigefor_div_buscar{
+	background: #fffb82;
+}
+.sigefor_pag_itm_over{
+	text-align: center;
+	color: #C4D2FF;
+	cursor: pointer;
+	background-color: #0066CC;
+}
+.sigefor_pag_itm_act{
+	color: #DA70D6;
+	font-weight: bold;
+	background: White;
+	text-align: center;
+}
+.sigefor_pag_ir_a{
+	color: #FF1493;
+	font-weight: bold;
+	font-size: 8pt;
+}
+hr.sigefor_pag_regla{
+	color: #006400;
+	border: 1px solid #006400;
+	}
+select.sigefor_pag_combo{
+	font-family: Tahoma;
+	font-size: 8pt;
+	color: Fuchsia;
+	background: #FFE6E1;
+	font-weight: bold;
+	border: 1px solid #BA55D3;
+}
+.sigefor_consulta{
+	background-color: White;
+}
+.sigefor_con_pie_consulta{
+	background-color: #ffffe8;
+	color: #8b0000;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-color: #b3ebb3;
+}
+.sigefor_pag_itm{
+	background-color: White;
+	text-align: center;
+}
+table.sigefor_form_buscar{
+	background-color: white;
+	width: 280px;
+	vertical-align: middle;
+}
+table.sigefor_paginador{
+	background: White;
+	height: 10px;
+	text-align: center;
+	margin: 0 auto;
+}
+.sigefor_pag_cont{
+	text-align: center;
+}
+.sigefor_for_indicador{
+	color: #FEFF68;
+	font-size: 10pt;
+	font-weight: bold;
+}
+td.sigefor_for_control, td.sigefor_form_q{
+	background-color: #ddefff;
+}
+
+td.sigefor_form_q{
+	vertical-align: text-bottom;
+	text-align: center;
+	/*background-image: url(../imagenes/fondo_xazul.png);*/
+	height: 32px;
+	color: white;
+	background-color: #8fbc8f;
+	background-image: url(../imagenes/fondo_xverde1.png);
+}
+th.sigefor_for_titulo{
+	background-color: #5f9ea0;
+	text-align: left;
+	color: #ffffe0;
+}
+th.sigefor_form_q{
+	background-color: #5f9ea0;
+	text-align: center;
+	color: #ffffe0;
+
+}
+
+caption.sigefor,.sigefor_con_caption,.sigefor_for_caption{
+	color: white;
+	padding: 4px;
+	background-image: url(../imagenes/CAPTION_VERDE.png);
+	font-size: 10pt;
+	font-family: Tahoma;
+	text-align: center;
+	font-weight: bold;
+	padding: 6px;
+	margin: 2px 1px 2px 1px;
+}
+.sigefor_con_contador_over{
+	cursor: pointer;
+	border-style: outset;
+	border-width: 2px;
+	border-bottom-color: #e0ffff;
+	background-image: url(../imagenes/barra_titulo_azul.png);
+	color: white;
+	background-repeat: repeat-x;
+	background-position: center;
+}
+.sigefor_con_grupo{
+	background-color: silver;
+	color: blue;
+}
+.sigefor_con_contador0,.sigefor_con_seleccion0,.sigefor_con_detalle0{
+	background-color: white;
+	color: black;
+	height: 8px;
+	padding: 0px 2px 0px 2px;
+}
+.sigefor_con_contador1,.sigefor_con_seleccion1,.sigefor_con_detalle1{
+	background-color: #d2ffd5;
+	color: black;
+	height: 8px;
+	padding: 0px 2px 0px 2px;
+}
+input.sigefor_con_ctl_seleccion{
+	border-bottom-style: none;
+}
+.sigefor_con_titulo{
+	background-color: #006400;
+	color: white;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #9acd32;
+}
+.sigefor_pag_cont{
+	background-color: #FFFFFF;
+}
+td.sigefor_navegador{
+	text-align: right;
+}
+input.sigefor_nav_item,.sigefor_form_q_boton{
+	background-image: url(../imagenes/barra_titulo_azul.png);
+	color: white;
+	cursor: pointer;
+	border: 1px solid #00ca85;
+	font-weight: bold;
+	font-size: 8pt;
+}
+input.sigefor_con_nuevo{
+	background-image: url(../imagenes/barra_titulo_azul.png);
+	vertical-align: top;
+	font-weight: bold;
+	cursor: pointer;
+	color: white;
+}
+.sigefor_navegador{
+}
+
+/*    estilos del calendario */
+.sigefor_cal_icono{
+	font-weight: bold; font-size: 0px; 
+	background-image: url(../imagenes/icono_calendario.gif); 
+	width: 22px; 
+	cursor: pointer; 
+	border-top-style: none; 
+	border-right-style: none; 
+	border-left-style: none; 
+	height: 17px; 
+	background-color: #ffffff; 
+	border-bottom-style: none;
+	vertical-align:text-top;
+}
+th.sigefor_cal_dia, th.sigefor_cal_semana{
+	text-align:center;
+	font-family:tahoma,arial;
+	color: white;
+	font-size:9pt;
+	text-transform:capitalize;
+	padding-left: 4px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: White;
+	background: #006400 url(../imagenes/fondo_verde2.gif);
+}
+.sigefor_cal_mes_ant,.sigefor_cal_mes_sig,.sigefor_cal_mes,.sigefor_cal_ano{
+	padding-left: 2px;
+	border-color: #dbffee;
+	border-width: 1px;
+	color: white;
+	text-align:left;
+	font-size:8pt;
+	font-family:tahoma,arial;
+	font-weight: bold;
+	cursor:pointer;
+	vertical-align: top;
+	background: teal url(../imagenes/fondo_azul.png);
+}
+table.sigefor_cal{
+	background: #bff2c0;
+}
+caption.sigefor_cal_caption{
+	background-color: fuchsia;
+	color: aqua;
+}
+td.sigefor_cal_dia{
+	padding-left: 2px;
+	border-color: #ee82ee;
+	border-width: 1px;
+	background: #FFFFF0;
+	color: #006400;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+}
+td.sigefor_cal_sel{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: url(../imagenes/fondo_xverde1.png);
+	color: White;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+}
+td.sigefor_cal_dia_over{
+	padding-left: 2px;
+	border-color: #6495ED;
+	border-width: 1px;
+	color: white;
+	text-align:right;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	cursor:pointer;
+	background: url(../imagenes/menu_titulo.png);
+}
+th.sigefor_cal_hoy_over{
+	text-align:center;
+	font-family:tahoma,arial;
+	color: #e1f7ee;
+	font-size:9pt;
+	padding-left: 0px;
+	border-color: #DAA520;
+	border-width: 1px;
+	background: #2f4f4f;
+	cursor:pointer;
+}
+th.sigefor_cal_hoy{
+	padding-left: 0px;
+	border-color: #6495ED;
+	border-width: 1px;
+	background: #006400 url(../imagenes/fondo_verde2.gif);
+	color: white;
+	text-align:center;
+	font-size:9pt;
+	font-family:tahoma,arial;
+	cursor:pointer;
+}
+td.sigefor_cal_semana{
+	text-align:right;
+	font-family:tahoma,arial;
+	color: #006400;
+	font-size:9pt;
+	padding-right: 6px;
+	border-color: #DAA520;
+	border-width: 1px;
+	background: #f0fff1;
+	font-weight: bold;
+
+}
+td.sigefor_cal_semana_over{
+	text-align:right;
+	font-family:tahoma,arial;
+	color: #2e8b57;
+	font-size:9pt;
+	padding-right: 6px;
+	border-color: #DAA520;
+	border-width: 1px;
+	background: #afeeee;
+	font-weight: bold;
+	cursor:pointer;
+}
+/*    estilos del query 2004 */
+th.query{
+	font-size: 9pt;
+	font-family: Tahoma;
+	color: #FFFFFF;
+	background-color: #003399;
+	text-align: center;
+	font-weight:bold;
+	text-transform: capitalize;
+	padding-left: 4px;
+	padding-right: 4px;
+	background-image:url(../imagenes/fondo_azul.gif);
+}
+a.query,tr.query,td.query{
+	font-size: 8pt;
+	font-family: Tahoma;
+	background-color: #D5F4FF;
+	color: #003399;
+	text-align: left;
+}
+table.query{
+	font-size: 8pt;
+	font-family: Tahoma;
+	background-color: #93BEFF;
+	color: #003399;
+	text-align: left;
+	border-color: #0066CC;
+}
