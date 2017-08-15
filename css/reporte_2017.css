@@ -1,6 +1,9 @@
 /* Scss Document */
-body > span:nth-child(n+3) > table {
+div.pagina {
   page-break-before: always; }
+
+div.pagina:nth-of-type(1) {
+  page-break-before: avoid; }
 
 .sigefor_rpt_titulo {
   background-color: #a3a3a3;
