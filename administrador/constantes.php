@@ -22,6 +22,6 @@ define ("C_TEMA_DEFAULT","primavera");
 define ("C_CLASE_DEFAULT","sigefor");
 define ("C_METODO","POST");//GET,POST,''
 
-define ("C_HOJA_CSS", array("../css/seniat_2017.css"));
+define ("C_HOJA_CSS", "../css/seniat_2017.css");
 define ("C_JAVASCRIPT", false);
 ?>

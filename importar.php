@@ -1,5 +1,5 @@
 <?php
-
+ini_set('max_execution_time', 600); 
 function migrar($archivo_x, $tabla_x, $codactividad, $adjunto){
 	if($archivo_x==""){
 		return "ERROR";
@@ -704,6 +704,9 @@ function importar_func($archivo_x, $codmigracion, $operacion="e"){
 		
 	}// end if	
 	if($operacion=="m"){
+		
+		
+		
 		$q = "
 			INSERT INTO personas (nacionalidad, cedula, nombre_1, apellido_1, fecha_nac, sexo, telefono, email, upd)
 			SELECT 'V', pm.cedula, nombre, apellido, pm.fecha_nac, pm.sexo, pm.telefono, pm.correo, 100000+$codmigracion
